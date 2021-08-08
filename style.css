@@ -1,0 +1,25 @@
+.boxes {
+  width: 600px;
+  height: 400px;
+  background-color: yellow;
+  margin: 0 auto;
+}
+
+.box_parent {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.box1 {
+  width: 150px;
+  height: 400px;
+  background-color: orange;
+  float: left;
+}
+
+.box2 {
+  width: 250px;
+  height: 400px;
+  background-color: red;
+  float: left;
+}
